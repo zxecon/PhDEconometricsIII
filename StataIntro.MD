@@ -31,7 +31,7 @@ As a statistical software, Stata does not have a general recommended coding styl
 ---
 #### *Questions?*
 
-I would be happy to answer your questions regarding the courses, problem sets, econometrics models. Feel free to contact me and I will try my best to respond.
+I would be happy to answer your questions regarding the courses, problem sets, econometrics models. Feel free to contact me and I will try my best to respond. I will also update the repository reguarly.
 
 - Contact: 
 
