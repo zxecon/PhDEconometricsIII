@@ -31,6 +31,11 @@ A Stata User forum.
 
 As a statistical software, Stata does not have a general recommended coding styles like R or Python. However, good coding behaviors can make your research much more accessible and understandable by readers/co-authors.
 
+- [In Stata coding, Style is the Essential: A brief commentary on do-file style](https://michaelshill.net/2015/07/31/in-stata-coding-style-is-the-essential/)
+
+- [The Do’s and Don’ts of a Do-file](https://www.parisschoolofeconomics.eu/docs/yin-remi/do-file.pdf)
+
+- [An Introduction to Stata Programming, Second Edition](https://www.stata-press.com/books/introduction-stata-programming/)
 
 
 ### Problem Sets Submission
