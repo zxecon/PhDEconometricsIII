@@ -12,7 +12,7 @@ i.e. within your code, Stata does not know where is the cut-off.
 
 Since the default cut-off for both commands is 0, there are two ways to solve[set the center(cut-off) at 0.5]:
 
-- You can generate a new variable (say test) by center the 'lagdemvoteshare'
+- You can generate a new variable (say test) by centering the 'lagdemvoteshare'
 ```stata
 gen test = lagdemvoteshare - 0.5
 rdrobust democrat test, all
