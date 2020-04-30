@@ -7,7 +7,7 @@ Some of you encontered the following error:
 ```stata
 c() should be set within the range of lagdemvoteshare
 ```
-This is because you need to center the assignment variable so that the cut-off is zero for both programs to work, 
+This is because you need to arrange the assignment variable so that the cut-off is centered for both programs to work, 
 i.e. within your code, Stata does not know where is the cut-off.  
 
 Since the default cut-off for both commands is 0, there are two ways to solve[set the center(cut-off) at 0.5]:
