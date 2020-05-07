@@ -21,6 +21,6 @@ rdplot democrat test
 
 - You can add function to the command by setting c = 0.5
 ```stata
-rdrobust democrat x_c, c(0.5) all
+rdrobust democrat lagdemvoteshare, c(0.5) all
 rdplot democrat lagdemvoteshare, c(0.5)
 ```
